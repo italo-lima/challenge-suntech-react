@@ -1,0 +1,36 @@
+{
+  "residences": [
+    {
+      "cep": "57320000",
+      "houseNumber": "391",
+      "latitude": "-9.6152521",
+      "longitude": "-36.7711669",
+      "residents": "5",
+      "id": 1
+    },
+    {
+      "cep": "57320000",
+      "houseNumber": "12",
+      "latitude": "-9.616115",
+      "longitude": "-36.761080",
+      "residents": "2",
+      "id": 2
+    },
+    {
+      "cep": "57320000",
+      "houseNumber": "11",
+      "latitude": "-9.615741",
+      "longitude": "-36.768695",
+      "residents": "1",
+      "id": 3
+    },
+    {
+      "cep": "57320000",
+      "houseNumber": "345",
+      "latitude": "-9.619931",
+      "longitude": "-36.761451",
+      "residents": "7",
+      "id": 4
+    }
+  ]
+}
