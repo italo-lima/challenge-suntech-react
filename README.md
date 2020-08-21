@@ -46,6 +46,11 @@ Instale as dependências do projeto
 
 `yarn`
 
+Crie um arquivo .env, baseado no .env-example.
+
+Acesse o google cloud API (https://console.cloud.google.com/apis/), crie um projeto e gere uma chave para que seja possível utilizar os recursos do mapa. Após
+criar essa chave, adicione-a no .env.
+
 Execute a API e banco de dados fake
 
 `yarn database`
